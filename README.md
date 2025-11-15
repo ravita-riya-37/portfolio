@@ -37,3 +37,10 @@ Showcases my web development skills and projects effectively.
 🔗 Live Demo
 
 👉 Live Link: https://ravita-portfolio-website.netlify.app
+
+Contact
+
+If you want to connect:
+
+Email: ravitariy1430@gmail.com
+
